@@ -1,8 +1,17 @@
+## Description
+
+This is a mobile-responsive, single-page weather web app.
+<hr>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+It will Install all required dependenies
 
 ### `npm start`
 
