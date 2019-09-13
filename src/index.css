@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", Inter, Helvetica, sans-serif, Arial;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+  /* Center and scale the image nicely */
+  background: url('https://bit.ly/webApp_Assets_background') no-repeat center;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

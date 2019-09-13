@@ -1,0 +1,33 @@
+.Carousel {
+    margin: auto;
+    width: 50%;
+    padding: 0px;
+}
+
+.CityLabel {
+    text-align: center;
+    color: white;
+    font-weight: 100;
+}
+
+.CarousalContainer {
+    display: inline-block;
+    text-align: center;
+}
+
+.ImgWeather {
+    width: 40%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.ArrowKeys {
+    width: 10%;
+}
+
+@media (max-width: 500px) {
+    .Carousel {
+        width: 500px;
+        /*margin-left: 25%;*/
+    }
+}

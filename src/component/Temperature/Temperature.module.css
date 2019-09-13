@@ -1,0 +1,28 @@
+.Temperature {
+    text-align: center;
+    color: white;
+    /*margin-bottom:40px;*/
+}
+
+.Label {
+    font-weight: 100;
+}
+
+.TempLabel {
+    margin: 10px;
+}
+
+.Hr {
+    width: 50%;
+    margin-top: 40px
+}
+
+@media (max-width: 500px) {
+    .Temperature {
+        width: 500px;
+        /*margin-left: 25%;*/
+    }
+    .Hr {
+        width: 90%;
+    }
+}
