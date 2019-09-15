@@ -1,7 +1,7 @@
 [build]
   command = "npm run build"
-  publish="2creative-weatherbit/build"
-  base = "2creative-weatherbit/"
+  publish="/build"
+  base = ""
 
 [[redirects]]
     from = "/*"
