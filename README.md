@@ -1,6 +1,6 @@
 ## Description
 
-This is a mobile-responsive, single-page weather web app.<br/>
+This is a mobile-responsive, single-page weather web app.<br/> </br>
 Deployed on Netlify: https://5d7dc557451e268b884ab6ff--thirsty-sinoussi-cd7d40.netlify.com/
 <hr>
 
